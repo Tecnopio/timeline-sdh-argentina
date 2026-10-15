@@ -8,7 +8,8 @@
 
 :root{
   color-scheme: light dark;
-  --bg:#ffffff; --surface:#f5f5f5; --border:#dddddd; --text:#111111; --muted:#555555; --accent:#8ECAE6;
+  --bg:#ffffff; --surface:#f5f5f5; --border:#dddddd; --text:#111111; --muted:#555555;
+  --accent:#8ECAE6; --accent-strong:#1B6CA8;
 }
 @media (prefers-color-scheme: dark){
   :root{ --bg:#1b1b1b; --surface:#262626; --border:#3a3a3a; --text:#f0f0f0; --muted:#9a9a9a; }
@@ -22,17 +23,17 @@ body{font-family:system-ui,-apple-system,sans-serif;font-size:clamp(.85rem,2.5cq
 [role=tab]{appearance:none;border:1px solid var(--border);background:var(--surface);color:var(--text);
   padding:.35rem .8rem;border-radius:999px;font-size:clamp(.72rem,2cqi,.82rem);white-space:nowrap;
   cursor:pointer;font-family:inherit;margin-bottom:.5rem}
-[role=tab][aria-selected=true]{background:var(--accent);border-color:var(--accent);color:#ffffff;font-weight:600}
-[role=tab]:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+[role=tab][aria-selected=true]{background:var(--accent);border-color:var(--accent);color:#111111;font-weight:600}
+[role=tab]:focus-visible{outline:2px solid var(--accent-strong);outline-offset:2px}
 [role=tabpanel]{flex:1;overflow-y:auto;padding:.8rem 1rem 1rem;scrollbar-gutter:stable}
 [role=tabpanel][hidden]{display:none!important}
-h3{font-size:clamp(.8rem,2.5cqi,.9rem);margin:0 0 .4rem;color:var(--accent)}
+h3{font-size:clamp(.8rem,2.5cqi,.9rem);margin:0 0 .4rem;color:var(--accent-strong)}
 p{margin:0 0 .5rem}
-a{color:var(--accent)}
+a{color:var(--accent-strong)}
 a.link-norma{display:inline-flex;align-items:baseline;gap:.3rem;background:var(--surface);
   border:1px solid var(--border);padding:.35rem .6rem;border-radius:6px;text-decoration:none;
   font-weight:500;color:var(--text)}
-a.link-norma:hover{background:var(--accent);border-color:var(--accent);color:#ffffff}
+a.link-norma:hover{background:var(--accent);border-color:var(--accent);color:#111111}
 a.link-norma .ic{width:.95em;height:.95em;flex:none;align-self:center}
 ul{margin:0;padding-left:1.15rem}
 li{margin-bottom:.25rem}
