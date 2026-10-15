@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ORG-04 · Subsecretaría de Derechos Humanos (SDH)</title>
+<style>
+
+:root{
+  color-scheme: light dark;
+  --bg:#ffffff; --surface:#f5f5f5; --border:#dddddd; --text:#111111; --muted:#555555; --accent:#F9E79F;
+}
+@media (prefers-color-scheme: dark){
+  :root{ --bg:#1b1b1b; --surface:#262626; --border:#3a3a3a; --text:#f0f0f0; --muted:#9a9a9a; }
+}
+*{box-sizing:border-box;margin:0}
+html,body{height:100%}
+body{font-family:system-ui,-apple-system,sans-serif;font-size:clamp(.85rem,2.5cqi,.95rem);
+  line-height:1.5;background:var(--bg);color:var(--text);display:flex;flex-direction:column;overflow:hidden}
+[role=tablist]{display:flex;gap:.25rem;padding:.5rem .5rem 0;border-bottom:1px solid var(--border);
+  overflow-x:auto;scrollbar-width:thin;flex:none;background:var(--surface)}
+[role=tab]{appearance:none;border:1px solid var(--border);background:var(--surface);color:var(--text);
+  padding:.35rem .8rem;border-radius:999px;font-size:clamp(.72rem,2cqi,.82rem);white-space:nowrap;
+  cursor:pointer;font-family:inherit;margin-bottom:.5rem}
+[role=tab][aria-selected=true]{background:var(--accent);border-color:var(--accent);color:#ffffff;font-weight:600}
+[role=tab]:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+[role=tabpanel]{flex:1;overflow-y:auto;padding:.8rem 1rem 1rem;scrollbar-gutter:stable}
+[role=tabpanel][hidden]{display:none!important}
+h3{font-size:clamp(.8rem,2.5cqi,.9rem);margin:0 0 .4rem;color:var(--accent)}
+p{margin:0 0 .5rem}
+a{color:var(--accent)}
+a.link-norma{display:inline-flex;align-items:baseline;gap:.3rem;background:var(--surface);
+  border:1px solid var(--border);padding:.35rem .6rem;border-radius:6px;text-decoration:none;
+  font-weight:500;color:var(--text)}
+a.link-norma:hover{background:var(--accent);border-color:var(--accent);color:#ffffff}
+a.link-norma .ic{width:.95em;height:.95em;flex:none;align-self:center}
+ul{margin:0;padding-left:1.15rem}
+li{margin-bottom:.25rem}
+
+</style>
+</head>
+<body>
+<div role="tablist" aria-label="Detalle ORG-04">
+<button role="tab" id="btn-tab-0" aria-controls="tab-0" aria-selected="true" tabindex="0">Subsecretaría</button>
+<button role="tab" id="btn-tab-1" aria-controls="tab-1" aria-selected="false" tabindex="-1">Referencia normativa</button>
+<button role="tab" id="btn-tab-2" aria-controls="tab-2" aria-selected="false" tabindex="-1">Observaciones</button>
+</div>
+<section role="tabpanel" id="tab-0" aria-labelledby="btn-tab-0">
+<h3>Titular</h3>
+<p>Diana Conti</p>
+<h3>Evento</h3>
+<p>Transferencia al Ministerio de Justicia y DDHH</p>
+<h3>Dependencia</h3>
+<p>Ministerio de Justicia y Derechos Humanos</p></section>
+<section role="tabpanel" id="tab-1" aria-labelledby="btn-tab-1" hidden>
+<h3>Referencia normativa</h3>
+<p><a class="link-norma" href="https://servicios.infoleg.gob.ar/infolegInternet/anexos/65000-69999/65958/norma.htm" target="_blank" rel="noopener">Decreto 20/1999 (y Decreto 624/2000, estructura) <svg class="ic" aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg></a></p>
+<h3>Campos de acción</h3>
+<ul>
+<li>Archivos</li>
+<li>denuncias</li>
+<li>reparaciones</li>
+<li>identidad.</li>
+</ul></section>
+<section role="tabpanel" id="tab-2" aria-labelledby="btn-tab-2" hidden>
+<h3>Observaciones</h3>
+<p>Conti renuncia en la crisis de dic. 2001.</p><p>Sin informe AGN/SIGEN individualizado por organismo para 2016-2026; la entidad quedo contemplada en la auditoría de su entidad superior (criterio de auditoría por jurisdicción).</p><p><strong>Auditado:</strong> Si (en auditoría de jurisdicción superior)</p><p><strong>Detalle de auditoría:</strong> Cubierta por la auditoría jurisdiccional del Ministerio de Justicia (Secretaría de DDHH y sus dependencias): SIGEN - &#x27;Informe de Entrega y Recepción&#x27; 2024 (Dec. 126/2023; Res. SIGEN 3/2024, BO 09/01/2024) y Examenes de Gestión de la jurisdicción de la AGN (incl. informe 2012 sobre la Subsecretaría de DDHH, datos 2009-2010).</p></section>
+
+<script>
+(function(){
+  var tabs=Array.prototype.slice.call(document.querySelectorAll('[role=tab]'));
+  function show(id){
+    tabs.forEach(function(t){
+      var sel=t.getAttribute('aria-controls')===id;
+      t.setAttribute('aria-selected',sel?'true':'false');
+      t.tabIndex=sel?0:-1;
+      document.getElementById(t.getAttribute('aria-controls')).hidden=!sel;
+    });
+  }
+  tabs.forEach(function(t){
+    t.addEventListener('click',function(){show(t.getAttribute('aria-controls'));});
+    t.addEventListener('keydown',function(e){
+      if(e.key!=='ArrowRight'&&e.key!=='ArrowLeft')return;
+      var i=tabs.indexOf(t);
+      var j=(e.key==='ArrowRight')?(i+1)%tabs.length:(i-1+tabs.length)%tabs.length;
+      tabs[j].focus();
+      show(tabs[j].getAttribute('aria-controls'));
+      e.preventDefault();
+    });
+  });
+  show(tabs[0].getAttribute('aria-controls'));
+})();
+</script>
+</body>
+</html>

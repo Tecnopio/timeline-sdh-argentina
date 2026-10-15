@@ -1,0 +1,248 @@
+{
+  "title": {
+    "text": {
+      "headline": "Evolución institucional de los Derechos Humanos en Argentina",
+      "text": "<p>Grupo de investigación en Ciencias Políticas (GICP UBA)</p>"
+    },
+    "start_date": {
+      "year": 1984
+    },
+    "end_date": {
+      "year": 2026
+    }
+  },
+  "events": [
+    {
+      "unique_id": "ORG-01",
+      "start_date": {
+        "year": 1984,
+        "month": 9,
+        "day": 20,
+        "display_date": "1984-1989"
+      },
+      "text": {
+        "headline": "Subsecretaría de Derechos Humanos (SDH)",
+        "text": "Custodia de los archivos de la CONADEP; recepción y sistematización de denuncias de desaparición forzada; Registro de Desaparecidos y Fallecidos (REDEFA); aplicación de leyes reparatorias iniciales."
+      },
+      "group": "Subsecretaría",
+      "background": {
+        "color": "#F9E79F"
+      },
+      "media": {
+        "url": "https://Tecnopio.github.io/timeline-sdh-argentina/tabs-ORG-01.html",
+        "caption": "Detalle por pestañas"
+      },
+      "end_date": {
+        "year": 1991,
+        "month": 4,
+        "day": 18
+      }
+    },
+    {
+      "unique_id": "ORG-02",
+      "start_date": {
+        "year": 1991,
+        "month": 4,
+        "day": 19,
+        "display_date": "1991-1997"
+      },
+      "text": {
+        "headline": "Dirección Nacional de Derechos Humanos (SDH)",
+        "text": "Reestructuración administrativa; mantiene recepción de denuncias y archivos de DD.HH. en el Ministerio del Interior."
+      },
+      "group": "Dirección Nacional",
+      "background": {
+        "color": "#A9DFBF"
+      },
+      "media": {
+        "url": "https://Tecnopio.github.io/timeline-sdh-argentina/tabs-ORG-02.html",
+        "caption": "Detalle por pestañas"
+      },
+      "end_date": {
+        "year": 1996,
+        "month": 12,
+        "day": 31
+      }
+    },
+    {
+      "unique_id": "ORG-03",
+      "start_date": {
+        "year": 1996,
+        "month": 1,
+        "day": 1,
+        "display_date": "1996-1999"
+      },
+      "text": {
+        "headline": "Subsecretaría de Derechos Humanos y Sociales (SDH)",
+        "text": "Funciones de DD.HH. sumadas a políticas sociales; coordinación de la CoNaDi y receptoras de denuncias."
+      },
+      "group": "Subsecretaría",
+      "background": {
+        "color": "#F9E79F"
+      },
+      "media": {
+        "url": "https://Tecnopio.github.io/timeline-sdh-argentina/tabs-ORG-03.html",
+        "caption": "Detalle por pestañas"
+      },
+      "end_date": {
+        "year": 1999,
+        "month": 12,
+        "day": 31
+      }
+    },
+    {
+      "unique_id": "ORG-04",
+      "start_date": {
+        "year": 2000,
+        "month": 1,
+        "day": 1,
+        "display_date": "2000-2001"
+      },
+      "text": {
+        "headline": "Subsecretaría de Derechos Humanos (SDH)",
+        "text": "Recepción de denuncias, archivos y aplicación de leyes reparatorias en el Min. de Justicia y DDHH."
+      },
+      "group": "Subsecretaría",
+      "background": {
+        "color": "#F9E79F"
+      },
+      "media": {
+        "url": "https://Tecnopio.github.io/timeline-sdh-argentina/tabs-ORG-04.html",
+        "caption": "Detalle por pestañas"
+      },
+      "end_date": {
+        "year": 2002,
+        "month": 2,
+        "day": 27
+      }
+    },
+    {
+      "unique_id": "ORG-05",
+      "start_date": {
+        "year": 2002,
+        "month": 2,
+        "day": 28,
+        "display_date": "2002-2015"
+      },
+      "text": {
+        "headline": "Secretaría de Derechos Humanos (SDH)",
+        "text": "Rango de Secretaría; conducción de las políticas de memoria, verdad, justicia y reparación; autoridad de aplicación de leyes reparatorias; creación del ANM (2003), CoNaDi, Programa Verdad y Justicia, Consejo Federal, etc."
+      },
+      "group": "Secretaría",
+      "background": {
+        "color": "#8ECAE6"
+      },
+      "media": {
+        "url": "https://Tecnopio.github.io/timeline-sdh-argentina/tabs-ORG-05.html",
+        "caption": "Detalle por pestañas"
+      },
+      "end_date": {
+        "year": 2015,
+        "month": 12,
+        "day": 9
+      }
+    },
+    {
+      "unique_id": "ORG-06",
+      "start_date": {
+        "year": 2015,
+        "month": 12,
+        "day": 10,
+        "display_date": "2016-2019"
+      },
+      "text": {
+        "headline": "Secretaría de Derechos Humanos y Pluralismo Cultural (SDH)",
+        "text": "Mantiene las funciones de DD.HH. y suma la política de pluralismo cultural; recorte/redistribución de competencias (traspaso de búsqueda de personas y recompensas a Seguridad en 2016)."
+      },
+      "group": "Secretaría",
+      "background": {
+        "color": "#8ECAE6"
+      },
+      "media": {
+        "url": "https://Tecnopio.github.io/timeline-sdh-argentina/tabs-ORG-06.html",
+        "caption": "Detalle por pestañas"
+      },
+      "end_date": {
+        "year": 2019,
+        "month": 12,
+        "day": 18
+      }
+    },
+    {
+      "unique_id": "ORG-07",
+      "start_date": {
+        "year": 2019,
+        "month": 12,
+        "day": 19,
+        "display_date": "2019-2023"
+      },
+      "text": {
+        "headline": "Secretaría de Derechos Humanos (SDH)",
+        "text": "Secretaría de DDHH con Subsecretarías de Protección y de Promoción; conducción de políticas de memoria, verdad, justicia, reparación e igualdad y no discriminación."
+      },
+      "group": "Secretaría",
+      "background": {
+        "color": "#8ECAE6"
+      },
+      "media": {
+        "url": "https://Tecnopio.github.io/timeline-sdh-argentina/tabs-ORG-07.html",
+        "caption": "Detalle por pestañas"
+      },
+      "end_date": {
+        "year": 2023,
+        "month": 12,
+        "day": 9
+      }
+    },
+    {
+      "unique_id": "ORG-08",
+      "start_date": {
+        "year": 2023,
+        "month": 12,
+        "day": 10,
+        "display_date": "2023-2025"
+      },
+      "text": {
+        "headline": "Secretaría de Derechos Humanos (SDH)",
+        "text": "Secretaría de DDHH del Min. de Justicia; a partir de 2024 con Subsecretarías de Asuntos Internacionales y de Asuntos Nacionales; profundización del recorte presupuestario y narrativa de 'memoria completa'."
+      },
+      "group": "Secretaría",
+      "background": {
+        "color": "#8ECAE6"
+      },
+      "media": {
+        "url": "https://Tecnopio.github.io/timeline-sdh-argentina/tabs-ORG-08.html",
+        "caption": "Detalle por pestañas"
+      },
+      "end_date": {
+        "year": 2025,
+        "month": 5,
+        "day": 21
+      }
+    },
+    {
+      "unique_id": "ORG-09",
+      "start_date": {
+        "year": 2025,
+        "month": 5,
+        "day": 22,
+        "display_date": "2025-2026"
+      },
+      "text": {
+        "headline": "Subsecretaría de Derechos Humanos (SDH)",
+        "text": "Subsecretaría de DDHH; conducción de las áreas residuales tras la fusión ANM-ESMA al CIPDH y la disolución del INADI."
+      },
+      "group": "Subsecretaría",
+      "background": {
+        "color": "#F9E79F"
+      },
+      "media": {
+        "url": "https://Tecnopio.github.io/timeline-sdh-argentina/tabs-ORG-09.html",
+        "caption": "Detalle por pestañas"
+      }
+    }
+  ],
+  "settings": {
+    "language": "es"
+  }
+}
