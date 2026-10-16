@@ -9,11 +9,14 @@
     },
     "end_date": {
       "year": 2026
+    },
+    "background": {
+      "url": "https://hacerjusticia.memoriaabierta.org.ar/files/origin/ho/me/home-video.mp4"
     }
   },
   "events": [
     {
-      "unique_id": "ORG-01",
+      "unique_id": "ORG-01A",
       "start_date": {
         "year": 1984,
         "month": 9,
@@ -21,15 +24,43 @@
         "display_date": "1984-1989"
       },
       "text": {
-        "headline": "Subsecretaría de Derechos Humanos (SDH)",
+        "headline": "Subsecretaría de Derechos Humanos",
         "text": "Custodia de los archivos de la CONADEP; recepción y sistematización de denuncias de desaparición forzada; Registro de Desaparecidos y Fallecidos (REDEFA); aplicación de leyes reparatorias iniciales."
       },
       "group": "Subsecretaría",
       "background": {
-        "color": "#F9E79F"
+        "color": "#F9E79F",
+        "url": "fotos/agua.Daniel-Garcia.1984.jpg"
       },
       "media": {
-        "url": "https://Tecnopio.github.io/timeline-sdh-argentina/tabs-ORG-01.html",
+        "url": "tabs-ORG-01A.html",
+        "caption": "GICP UBA"
+      },
+      "end_date": {
+        "year": 1989,
+        "month": 7,
+        "day": 8
+      }
+    },
+    {
+      "unique_id": "ORG-01B",
+      "start_date": {
+        "year": 1989,
+        "month": 7,
+        "day": 11,
+        "display_date": "1989-1991"
+      },
+      "text": {
+        "headline": "Subsecretaría de Derechos Humanos",
+        "text": "Custodia de los archivos de la CONADEP; recepción y sistematización de denuncias de desaparición forzada; Registro de Desaparecidos y Fallecidos (REDEFA); aplicación de leyes reparatorias iniciales."
+      },
+      "group": "Subsecretaría",
+      "background": {
+        "color": "#F9E79F",
+        "url": "fotos/agua.Daniel-Garcia.1984.jpg"
+      },
+      "media": {
+        "url": "tabs-ORG-01B.html",
         "caption": "GICP UBA"
       },
       "end_date": {
@@ -44,10 +75,10 @@
         "year": 1991,
         "month": 4,
         "day": 19,
-        "display_date": "1991-1997"
+        "display_date": "1991-1996"
       },
       "text": {
-        "headline": "Dirección Nacional de Derechos Humanos (SDH)",
+        "headline": "Dirección Nacional de Derechos Humanos",
         "text": "Reestructuración administrativa; mantiene recepción de denuncias y archivos de DD.HH. en el Ministerio del Interior."
       },
       "group": "Dirección Nacional",
@@ -55,25 +86,25 @@
         "color": "#A9DFBF"
       },
       "media": {
-        "url": "https://Tecnopio.github.io/timeline-sdh-argentina/tabs-ORG-02.html",
+        "url": "tabs-ORG-02.html",
         "caption": "GICP UBA"
       },
       "end_date": {
         "year": 1996,
-        "month": 12,
-        "day": 31
+        "month": 6,
+        "day": 27
       }
     },
     {
-      "unique_id": "ORG-03",
+      "unique_id": "ORG-03A",
       "start_date": {
         "year": 1996,
-        "month": 1,
-        "day": 1,
-        "display_date": "1996-1999"
+        "month": 6,
+        "day": 28,
+        "display_date": "1996-1997"
       },
       "text": {
-        "headline": "Subsecretaría de Derechos Humanos y Sociales (SDH)",
+        "headline": "Subsecretaría de Derechos Humanos y Sociales",
         "text": "Funciones de DD.HH. sumadas a políticas sociales; coordinación de la CoNaDi y receptoras de denuncias."
       },
       "group": "Subsecretaría",
@@ -81,7 +112,33 @@
         "color": "#F9E79F"
       },
       "media": {
-        "url": "https://Tecnopio.github.io/timeline-sdh-argentina/tabs-ORG-03.html",
+        "url": "tabs-ORG-03A.html",
+        "caption": "GICP UBA"
+      },
+      "end_date": {
+        "year": 1997,
+        "month": 12,
+        "day": 9
+      }
+    },
+    {
+      "unique_id": "ORG-03B",
+      "start_date": {
+        "year": 1997,
+        "month": 12,
+        "day": 10,
+        "display_date": "1997-1999"
+      },
+      "text": {
+        "headline": "Subsecretaría de Derechos Humanos y Sociales",
+        "text": "Funciones de DD.HH. sumadas a políticas sociales; coordinación de la CoNaDi y receptoras de denuncias."
+      },
+      "group": "Subsecretaría",
+      "background": {
+        "color": "#F9E79F"
+      },
+      "media": {
+        "url": "tabs-ORG-03B.html",
         "caption": "GICP UBA"
       },
       "end_date": {
@@ -99,7 +156,7 @@
         "display_date": "2000-2001"
       },
       "text": {
-        "headline": "Subsecretaría de Derechos Humanos (SDH)",
+        "headline": "Subsecretaría de Derechos Humanos",
         "text": "Recepción de denuncias, archivos y aplicación de leyes reparatorias en el Min. de Justicia y DDHH."
       },
       "group": "Subsecretaría",
@@ -107,7 +164,7 @@
         "color": "#F9E79F"
       },
       "media": {
-        "url": "https://Tecnopio.github.io/timeline-sdh-argentina/tabs-ORG-04.html",
+        "url": "tabs-ORG-04.html",
         "caption": "GICP UBA"
       },
       "end_date": {
@@ -117,15 +174,15 @@
       }
     },
     {
-      "unique_id": "ORG-05",
+      "unique_id": "ORG-05A",
       "start_date": {
         "year": 2002,
         "month": 2,
         "day": 28,
-        "display_date": "2002-2015"
+        "display_date": "2002-2003"
       },
       "text": {
-        "headline": "Secretaría de Derechos Humanos (SDH)",
+        "headline": "Secretaría de Derechos Humanos",
         "text": "Rango de Secretaría; conducción de las políticas de memoria, verdad, justicia y reparación; autoridad de aplicación de leyes reparatorias; creación del ANM (2003), CoNaDi, Programa Verdad y Justicia, Consejo Federal, etc."
       },
       "group": "Secretaría",
@@ -133,7 +190,85 @@
         "color": "#8ECAE6"
       },
       "media": {
-        "url": "https://Tecnopio.github.io/timeline-sdh-argentina/tabs-ORG-05.html",
+        "url": "tabs-ORG-05A.html",
+        "caption": "GICP UBA"
+      },
+      "end_date": {
+        "year": 2003,
+        "month": 5,
+        "day": 24
+      }
+    },
+    {
+      "unique_id": "ORG-05B",
+      "start_date": {
+        "year": 2003,
+        "month": 5,
+        "day": 25,
+        "display_date": "2003-2012"
+      },
+      "text": {
+        "headline": "Secretaría de Derechos Humanos",
+        "text": "Rango de Secretaría; conducción de las políticas de memoria, verdad, justicia y reparación; autoridad de aplicación de leyes reparatorias; creación del ANM (2003), CoNaDi, Programa Verdad y Justicia, Consejo Federal, etc."
+      },
+      "group": "Secretaría",
+      "background": {
+        "color": "#8ECAE6"
+      },
+      "media": {
+        "url": "tabs-ORG-05B.html",
+        "caption": "GICP UBA"
+      },
+      "end_date": {
+        "year": 2012,
+        "month": 4,
+        "day": 3
+      }
+    },
+    {
+      "unique_id": "ORG-05C",
+      "start_date": {
+        "year": 2012,
+        "month": 4,
+        "day": 3,
+        "display_date": "2012"
+      },
+      "text": {
+        "headline": "Secretaría de Derechos Humanos",
+        "text": "Rango de Secretaría; conducción de las políticas de memoria, verdad, justicia y reparación; autoridad de aplicación de leyes reparatorias; creación del ANM (2003), CoNaDi, Programa Verdad y Justicia, Consejo Federal, etc."
+      },
+      "group": "Secretaría",
+      "background": {
+        "color": "#8ECAE6"
+      },
+      "media": {
+        "url": "tabs-ORG-05C.html",
+        "caption": "GICP UBA"
+      },
+      "end_date": {
+        "year": 2012,
+        "month": 5,
+        "day": 14
+      }
+    },
+    {
+      "unique_id": "ORG-05D",
+      "start_date": {
+        "year": 2012,
+        "month": 5,
+        "day": 15,
+        "display_date": "2012-2015"
+      },
+      "text": {
+        "headline": "Secretaría de Derechos Humanos",
+        "text": "Rango de Secretaría; conducción de las políticas de memoria, verdad, justicia y reparación; autoridad de aplicación de leyes reparatorias; creación del ANM (2003), CoNaDi, Programa Verdad y Justicia, Consejo Federal, etc."
+      },
+      "group": "Secretaría",
+      "background": {
+        "color": "#8ECAE6"
+      },
+      "media": {
+        "url": "tabs-ORG-05D.html",
         "caption": "GICP UBA"
       },
       "end_date": {
@@ -151,7 +286,7 @@
         "display_date": "2016-2019"
       },
       "text": {
-        "headline": "Secretaría de Derechos Humanos y Pluralismo Cultural (SDH)",
+        "headline": "Secretaría de Derechos Humanos y Pluralismo Cultural",
         "text": "Mantiene las funciones de DD.HH. y suma la política de pluralismo cultural; recorte/redistribución de competencias (traspaso de búsqueda de personas y recompensas a Seguridad en 2016)."
       },
       "group": "Secretaría",
@@ -159,7 +294,7 @@
         "color": "#8ECAE6"
       },
       "media": {
-        "url": "https://Tecnopio.github.io/timeline-sdh-argentina/tabs-ORG-06.html",
+        "url": "tabs-ORG-06.html",
         "caption": "GICP UBA"
       },
       "end_date": {
@@ -177,7 +312,7 @@
         "display_date": "2019-2023"
       },
       "text": {
-        "headline": "Secretaría de Derechos Humanos (SDH)",
+        "headline": "Secretaría de Derechos Humanos",
         "text": "Secretaría de DDHH con Subsecretarías de Protección y de Promoción; conducción de políticas de memoria, verdad, justicia, reparación e igualdad y no discriminación."
       },
       "group": "Secretaría",
@@ -185,7 +320,7 @@
         "color": "#8ECAE6"
       },
       "media": {
-        "url": "https://Tecnopio.github.io/timeline-sdh-argentina/tabs-ORG-07.html",
+        "url": "tabs-ORG-07.html",
         "caption": "GICP UBA"
       },
       "end_date": {
@@ -203,7 +338,7 @@
         "display_date": "2023-2025"
       },
       "text": {
-        "headline": "Secretaría de Derechos Humanos (SDH)",
+        "headline": "Secretaría de Derechos Humanos",
         "text": "Secretaría de DDHH del Min. de Justicia; a partir de 2024 con Subsecretarías de Asuntos Internacionales y de Asuntos Nacionales; profundización del recorte presupuestario y narrativa de 'memoria completa'."
       },
       "group": "Secretaría",
@@ -211,7 +346,7 @@
         "color": "#8ECAE6"
       },
       "media": {
-        "url": "https://Tecnopio.github.io/timeline-sdh-argentina/tabs-ORG-08.html",
+        "url": "tabs-ORG-08.html",
         "caption": "GICP UBA"
       },
       "end_date": {
@@ -221,15 +356,15 @@
       }
     },
     {
-      "unique_id": "ORG-09",
+      "unique_id": "ORG-09A",
       "start_date": {
         "year": 2025,
         "month": 5,
         "day": 22,
-        "display_date": "2025-2026"
+        "display_date": "2025"
       },
       "text": {
-        "headline": "Subsecretaría de Derechos Humanos (SDH)",
+        "headline": "Subsecretaría de Derechos Humanos",
         "text": "Subsecretaría de DDHH; conducción de las áreas residuales tras la fusión ANM-ESMA al CIPDH y la disolución del INADI."
       },
       "group": "Subsecretaría",
@@ -237,7 +372,59 @@
         "color": "#F9E79F"
       },
       "media": {
-        "url": "https://Tecnopio.github.io/timeline-sdh-argentina/tabs-ORG-09.html",
+        "url": "tabs-ORG-09A.html",
+        "caption": "GICP UBA"
+      },
+      "end_date": {
+        "year": 2025,
+        "month": 12,
+        "day": 4
+      }
+    },
+    {
+      "unique_id": "ORG-09B",
+      "start_date": {
+        "year": 2025,
+        "month": 12,
+        "day": 10,
+        "display_date": "2025-2026"
+      },
+      "text": {
+        "headline": "Subsecretaría de Derechos Humanos",
+        "text": "Subsecretaría de DDHH; conducción de las áreas residuales tras la fusión ANM-ESMA al CIPDH y la disolución del INADI."
+      },
+      "group": "Subsecretaría",
+      "background": {
+        "color": "#F9E79F"
+      },
+      "media": {
+        "url": "tabs-ORG-09B.html",
+        "caption": "GICP UBA"
+      },
+      "end_date": {
+        "year": 2026,
+        "month": 3,
+        "day": 31
+      }
+    },
+    {
+      "unique_id": "ORG-09C",
+      "start_date": {
+        "year": 2026,
+        "month": 4,
+        "day": 1,
+        "display_date": "2026"
+      },
+      "text": {
+        "headline": "Subsecretaría de Derechos Humanos",
+        "text": "Subsecretaría de DDHH; conducción de las áreas residuales tras la fusión ANM-ESMA al CIPDH y la disolución del INADI."
+      },
+      "group": "Subsecretaría",
+      "background": {
+        "color": "#F9E79F"
+      },
+      "media": {
+        "url": "tabs-ORG-09C.html",
         "caption": "GICP UBA"
       }
     }
