@@ -30,7 +30,7 @@
       "group": "Subsecretaría",
       "background": {
         "color": "#F9E79F",
-        "url": "fotos/foto-animada-madres-plaza-de-mayo.mp4"
+        "url": "fotos/bg-1984-1989.mp4"
       },
       "media": {
         "url": "tabs-ORG-01A.html",
@@ -57,7 +57,7 @@
       "group": "Subsecretaría",
       "background": {
         "color": "#F9E79F",
-        "url": "fotos/agua.Daniel-Garcia.1984.jpg"
+        "url": "fotos/bg-1984-1989.mp4"
       },
       "media": {
         "url": "tabs-ORG-01B.html",
@@ -83,7 +83,8 @@
       },
       "group": "Dirección Nacional",
       "background": {
-        "color": "#A9DFBF"
+        "color": "#A9DFBF",
+        "url": "fotos/bg-1991-1996.mp4"
       },
       "media": {
         "url": "tabs-ORG-02.html",
@@ -109,7 +110,8 @@
       },
       "group": "Subsecretaría",
       "background": {
-        "color": "#F9E79F"
+        "color": "#F9E79F",
+        "url": "fotos/bg-1996-1997.mp4"
       },
       "media": {
         "url": "tabs-ORG-03A.html",
@@ -135,7 +137,8 @@
       },
       "group": "Subsecretaría",
       "background": {
-        "color": "#F9E79F"
+        "color": "#F9E79F",
+        "url": "fotos/bg-1997-1999.mp4"
       },
       "media": {
         "url": "tabs-ORG-03B.html",
@@ -161,7 +164,8 @@
       },
       "group": "Subsecretaría",
       "background": {
-        "color": "#F9E79F"
+        "color": "#F9E79F",
+        "url": "fotos/bg-2000-2001.mp4"
       },
       "media": {
         "url": "tabs-ORG-04.html",
@@ -187,7 +191,8 @@
       },
       "group": "Secretaría",
       "background": {
-        "color": "#8ECAE6"
+        "color": "#8ECAE6",
+        "url": "fotos/bg-2002-2003.mp4"
       },
       "media": {
         "url": "tabs-ORG-05A.html",
@@ -213,7 +218,8 @@
       },
       "group": "Secretaría",
       "background": {
-        "color": "#8ECAE6"
+        "color": "#8ECAE6",
+        "url": "fotos/bg-2003-2012.mp4"
       },
       "media": {
         "url": "tabs-ORG-05B.html",
@@ -239,7 +245,8 @@
       },
       "group": "Secretaría",
       "background": {
-        "color": "#8ECAE6"
+        "color": "#8ECAE6",
+        "url": "fotos/bg-2003-2012.mp4"
       },
       "media": {
         "url": "tabs-ORG-05C.html",
@@ -265,7 +272,8 @@
       },
       "group": "Secretaría",
       "background": {
-        "color": "#8ECAE6"
+        "color": "#8ECAE6",
+        "url": "fotos/bg-2012-2015.mp4"
       },
       "media": {
         "url": "tabs-ORG-05D.html",
@@ -291,7 +299,8 @@
       },
       "group": "Secretaría",
       "background": {
-        "color": "#8ECAE6"
+        "color": "#8ECAE6",
+        "url": "fotos/bg-2016-2019.mp4"
       },
       "media": {
         "url": "tabs-ORG-06.html",
@@ -317,7 +326,8 @@
       },
       "group": "Secretaría",
       "background": {
-        "color": "#8ECAE6"
+        "color": "#8ECAE6",
+        "url": "fotos/bg-2019-2023.mp4"
       },
       "media": {
         "url": "tabs-ORG-07.html",
@@ -343,7 +353,8 @@
       },
       "group": "Secretaría",
       "background": {
-        "color": "#8ECAE6"
+        "color": "#8ECAE6",
+        "url": "fotos/bg-2023-2025.mp4"
       },
       "media": {
         "url": "tabs-ORG-08.html",
@@ -369,7 +380,8 @@
       },
       "group": "Subsecretaría",
       "background": {
-        "color": "#F9E79F"
+        "color": "#F9E79F",
+        "url": "fotos/bg-2023-2025.mp4"
       },
       "media": {
         "url": "tabs-ORG-09A.html",
@@ -395,7 +407,8 @@
       },
       "group": "Subsecretaría",
       "background": {
-        "color": "#F9E79F"
+        "color": "#F9E79F",
+        "url": "fotos/bg-2025-2026.mp4"
       },
       "media": {
         "url": "tabs-ORG-09B.html",
@@ -421,7 +434,8 @@
       },
       "group": "Subsecretaría",
       "background": {
-        "color": "#F9E79F"
+        "color": "#F9E79F",
+        "url": "fotos/bg-2025-2026.mp4"
       },
       "media": {
         "url": "tabs-ORG-09C.html",
