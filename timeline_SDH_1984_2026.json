@@ -444,6 +444,7 @@
     }
   ],
   "settings": {
-    "language": "es"
+    "language": "es",
+    "theme": "dark"
   }
 }
